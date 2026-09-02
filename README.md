@@ -1,16 +1,48 @@
-## Hi there 👋
+# Hi, I'm Divyansh 👋
 
-<!--
-**divyanshdestiny/divyanshdestiny** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 BS in Data Science and Applications @ IIT Madras  
+💻 Aspiring AI & Software Engineer  
+🧠 Learning by building, experimenting, and solving problems
 
-Here are some ideas to get you started:
+## 🚀 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm currently pursuing the BS in Data Science and Applications at
+IIT Madras.
+
+I'm interested in:
+- 🤖 Artificial Intelligence & Machine Learning
+- 💻 Software Engineering
+- 🌐 Full-Stack Development
+- 📊 Data Science
+- 🧩 Problem Solving & Algorithms
+
+I enjoy understanding how things work, building projects, and continuously
+improving my technical skills.
+
+## 🛠️ Currently Learning
+
+- Python & Data Science
+- Data Structures & Algorithms
+- Web Development
+- Git & GitHub
+- AI / Machine Learning
+
+## 📚 Education
+
+**Indian Institute of Technology Madras**  
+BS in Data Science and Applications · 2026–Present
+
+## 🔭 What I'm Working Toward
+
+Building meaningful projects, developing strong problem-solving skills,
+and growing into a well-rounded software and AI engineer.
+
+## 🌐 Connect With Me
+
+- [LinkedIn] https://www.linkedin.com/in/thedivyanshdhiman/
+- [Kaggle] - [under construction]
+- [LeetCode] - [under construction]
+
+---
+
+⭐ Thanks for visiting my profile!
